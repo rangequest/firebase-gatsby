@@ -13,6 +13,7 @@ export default function BlogRoll() {
             title
             date(formatString: "MMMM D, YYYY")
             description
+            readmore
             hero_image {
               childImageSharp {
                 gatsbyImageData
@@ -43,6 +44,7 @@ export default function BlogRoll() {
           description={node.frontmatter.description}
           body={node.body}
           image={getImage(node.frontmatter.hero_image)}
+          readmore={node.frontmatter.readmore}
         />
       ))}
     </React.Fragment>

@@ -19,7 +19,11 @@ const Seo = ({ pageTitle, pageDescription }) => {
   const description = pageDescription ? pageDescription : defaults.description;
 
   return (
-    <Helmet>
+    <Helmet
+      htmlAttributes={{
+        lang: "en",
+      }}
+    >
       <title>{title}</title>
       <meta name="description" content={description} />
     </Helmet>

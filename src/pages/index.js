@@ -20,22 +20,6 @@ const IndexPage = () => {
           <Grid item xs={12} sm={11}>
             <Typography component="span">
               <p>
-                Sint ullamco tempor qui labore duis nulla tempor velit sunt
-                labore culpa aliqua laboris pariatur. Ex elit adipisicing
-                excepteur magna laborum deserunt duis eu eu enim elit deserunt
-                aliquip officia. Laboris proident tempor esse in. Adipisicing
-                excepteur eiusmod cupidatat esse adipisicing occaecat
-                incididunt. Labore aute dolore dolore sint deserunt. Commodo
-                adipisicing in in labore irure non. Dolor ullamco amet eu nisi
-                mollit commodo proident voluptate proident consectetur. Ullamco
-                minim quis enim aliquip in in do nostrud adipisicing anim
-                nostrud eu. Excepteur irure in magna aliqua ut aute ullamco. Ex
-                irure do nulla dolore ex adipisicing ad incididunt excepteur
-                occaecat incididunt fugiat do. Consectetur velit exercitation
-                amet fugiat sit esse mollit mollit ut dolore elit aute quis
-                excepteur.
-              </p>
-              <p>
                 Excepteur incididunt magna culpa laborum id aliquip culpa.
                 Cillum est sint magna laborum ipsum ipsum labore deserunt. Elit
                 ea aliqua quis pariatur aliqua officia sunt elit proident dolore
@@ -44,8 +28,47 @@ const IndexPage = () => {
               </p>
             </Typography>
           </Grid>
-          <Grid item xs={12} sm={12}>
+          <Grid item xs={12} sm={11}>
             <TabPanel></TabPanel>
+          </Grid>
+          <Grid item xs={12} sm={11}>
+            <Typography component="span">
+              <p>
+                Excepteur incididunt magna culpa laborum id aliquip culpa.
+                Cillum est sint magna laborum ipsum ipsum labore deserunt. Elit
+                ea aliqua quis pariatur aliqua officia sunt elit proident dolore
+                amet excepteur velit reprehenderit. Aliquip aliqua consectetur
+                ex ipsum dolor eu anim.
+              </p>
+              <p>
+                Aliquip tempor nisi anim in labore consequat sint labore eiusmod
+                eu. Ex ex deserunt ad incididunt incididunt commodo. Dolore sint
+                in Lorem non. Esse aliquip ullamco ipsum occaecat sunt laboris
+                incididunt adipisicing. Pariatur cillum ex amet exercitation
+                ipsum aute non eiusmod consectetur sint consequat eu
+                exercitation. Amet anim sit cillum velit ipsum aliqua ullamco
+                magna voluptate culpa qui duis est.
+              </p>
+              <p>
+                Pariatur anim pariatur fugiat aliquip anim anim et anim magna
+                adipisicing dolor nostrud. Enim duis ipsum laborum quis pariatur
+                est fugiat duis velit irure id commodo est. Sunt commodo ea
+                irure aliquip id veniam Lorem incididunt laborum consectetur qui
+                labore. Minim minim ea adipisicing exercitation occaecat. Mollit
+                ullamco eiusmod anim minim. Incididunt quis ullamco dolore
+                tempor dolor officia cupidatat Lorem ipsum cupidatat
+                reprehenderit non id nostrud. Reprehenderit magna deserunt ipsum
+                consequat laborum ipsum eu sunt et eiusmod. Id non consectetur
+                occaecat aliqua ex. Minim laboris nostrud voluptate deserunt in
+                aliqua velit culpa. Veniam eiusmod anim tempor aliqua velit
+                pariatur irure nisi. Voluptate esse reprehenderit aute eu in ex
+                consequat non minim est laborum labore ea aliqua. Veniam elit
+                veniam in proident consectetur exercitation exercitation sit qui
+                occaecat sint nostrud sunt. Quis et dolore ex nisi tempor eu
+                cupidatat proident. Amet ex do officia pariatur ad irure esse
+                est nostrud est.
+              </p>
+            </Typography>
           </Grid>
         </Grid>
       </HomeLayout>

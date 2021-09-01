@@ -50,6 +50,7 @@ export default function BlogPostCard({
   body,
   image,
   description,
+  readmore,
 }) {
   const classes = useStyles();
   const [expanded, setExpanded] = React.useState(false);
@@ -81,7 +82,7 @@ export default function BlogPostCard({
         </Typography>
         <Typography component="span">
           <Box mt={2}>
-            <Link to={slug}>Read More</Link>
+            <Link to={slug}>{readmore}</Link>
           </Box>
         </Typography>
       </CardContent>

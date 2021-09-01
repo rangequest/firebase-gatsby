@@ -8,7 +8,7 @@ import BlogRoll from "../BlogRoll";
 
 const useStyles = makeStyles((theme) => ({
   sidebar: {
-    maxWidth: "300px",
+    maxWidth: "350px",
   },
 }));
 
