@@ -1,8 +1,9 @@
 {
   "name": "firebase-gatsby",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Range Quest",
   "author": "RANGE QUEST",
+  "license": "0BSD",
   "keywords": [
     "gatsby"
   ],
@@ -34,5 +35,12 @@
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
     "styled-components": "^5.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rangequest/firebase-gatsby.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rangequest/firebase-gatsby/issues"
   }
 }
