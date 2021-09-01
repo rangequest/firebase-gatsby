@@ -11,9 +11,17 @@
 
 ## 🎡 What are Progressive Web Apps
 
-1. **Websites that took all the right vitamins**
+_Progressive Web Apps_ are **Websites that took all the right vitamins**.
 
-1. [Read More about PWA](https://web.dev/progressive-web-apps/)
+[Read More about PWA](https://web.dev/progressive-web-apps/)
+
+PWA checked with [Lighthouse](https://web.dev/performance-scoring/) - These checks validate the aspects of a Progressive Web App.
+
+<p align="center">
+  <a href="https://range.quest">
+    <img alt="Gatsby" src="https://raw.githubusercontent.com/rangequest/firebase-gatsby/main/images/after-pwa-implementation.gif" width="659" />
+  </a>
+</p>
 
 ## 🚀 Quick start
 
@@ -53,12 +61,12 @@
 
 # Gatsby After PWA Implementation
 
-![Gatsby before PWA Implementation](images/gatsby-after-pwa.png)
+![Gatsby after PWA Implementation](images/gatsby-after-pwa.png)
 
 ## After PWA
 
-![Gatsby before PWA Implementation](images/after-pwa-implementation.gif)
+![Gatsby after PWA Implementation](images/after-pwa-implementation.gif)
 
 # Live Demo
 
-1. [🔥 Visit Site](https://gatsby-pwa-firebase.web.app)
+[🔥 Visit Site](https://gatsby-pwa-firebase.web.app)
