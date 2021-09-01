@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "fir-gatsby-149a9"
+  },
+  "targets": {
+    "fir-gatsby-149a9": {
+      "hosting": {
+        "pwa-blog": [
+          "gatsby-pwa-material"
+        ]
+      }
+    }
   }
 }

@@ -1,7 +1,7 @@
 # Gatsby Progressive Web App Starter
 
 <p align="center">
-  <a href="https://gatsby-pwa-material.web.app/">
+  <a href="https://gatsby-pwa-material.firebaseapp.com/">
     <img alt="Gatsby" src="https://raw.githubusercontent.com/rangequest/firebase-gatsby/main/images/gatsby-pwa-banner-github.png" width="400" />
   </a>
 </p>
@@ -18,7 +18,7 @@ _Progressive Web Apps_ are **Websites that took all the right vitamins**.
 PWA checked with [Lighthouse](https://web.dev/performance-scoring/) - These checks validate the aspects of a Progressive Web App.
 
 <p align="center">
-  <a href="https://gatsby-pwa-material.web.app/">
+  <a href="https://gatsby-pwa-material.firebaseapp.com/">
     <img alt="Gatsby" src="https://raw.githubusercontent.com/rangequest/firebase-gatsby/main/images/after-pwa-implementation.gif" width="659" />
   </a>
 </p>
@@ -69,4 +69,4 @@ PWA checked with [Lighthouse](https://web.dev/performance-scoring/) - These chec
 
 # Live Demo
 
-[🔥 Visit Site](https://gatsby-pwa-material.web.app/)
+[🔥 Visit Site](https://gatsby-pwa-material.firebaseapp.com/)
