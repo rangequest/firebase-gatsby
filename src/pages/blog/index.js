@@ -23,6 +23,7 @@ const BlogPage = ({ data }) => {
           description={node.frontmatter.description}
           body={node.body}
           image={getImage(node.frontmatter.hero_image)}
+          readmore={node.frontmatter.readmore}
         />
       ))}
     </BlogLayout>
@@ -37,6 +38,7 @@ export const query = graphql`
           title
           date(formatString: "MMMM D, YYYY")
           description
+          readmore
           hero_image {
             childImageSharp {
               gatsbyImageData

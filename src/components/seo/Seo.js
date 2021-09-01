@@ -24,6 +24,7 @@ const Seo = ({ pageTitle, pageDescription }) => {
         lang: "en",
       }}
     >
+      <link rel="manifest" href="/manifest.json" />
       <title>{title}</title>
       <meta name="description" content={description} />
     </Helmet>
