@@ -25,6 +25,9 @@ const Seo = ({ pageTitle, pageDescription }) => {
       }}
     >
       <link rel="manifest" href="/manifest.json" />
+      <script src="/register-service-worker.js"></script>
+      <meta name="theme-color" content="#db4437" />
+      <link rel="apple-touch-icon" href="/apple-touch-icon.png"></link>
       <title>{title}</title>
       <meta name="description" content={description} />
     </Helmet>
