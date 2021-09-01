@@ -2,12 +2,18 @@
 
 <p align="center">
   <a href="https://range.quest">
-    <img alt="Gatsby" src="https://raw.githubusercontent.com/rangequest/firebase-gatsby/main/images/gatsby-pwa-banner-github.png" width="60" />
+    <img alt="Gatsby" src="https://raw.githubusercontent.com/rangequest/firebase-gatsby/main/images/gatsby-pwa-banner-github.png" width="400" />
   </a>
 </p>
 <h1 align="center">
   Gatsby Progressive Web Apps
 </h1>
+
+## 🎡 What are Progressive Web Apps
+
+1. **Websites that took all the right vitamins**
+
+1. [Read More about PWA](https://web.dev/progressive-web-apps/)
 
 ## 🚀 Quick start
 
@@ -55,4 +61,4 @@
 
 # Live Demo
 
-[Visit Site](https://gatsby-pwa-firebase.web.app)
+1. [🔥 Visit Site](https://gatsby-pwa-firebase.web.app)
