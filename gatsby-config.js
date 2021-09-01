@@ -4,13 +4,10 @@ module.exports = {
     title: "Range Quest",
     titleTemplate: "%s · The Range Quest",
     description:
-      "Hogwarts Potions master, Head of Slytherin house and former Death Eater.",
-    url: "https://range.quest", // No trailing slash allowed!
-    image: "/images/range-quest.png", // Path to your image you placed in the 'static' folder
-    twitterUsername: "@RangeQuest",
+      "Gatsby site using Material UI Hosted at Firebase by Range Quest",
   },
   plugins: [
-    "gatsby-plugin-material-ui",
+    //"gatsby-plugin-material-ui",
     {
       resolve: `gatsby-theme-material-ui`,
       options: {
