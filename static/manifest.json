@@ -22,22 +22,22 @@
   ],
   "start_url": "/",
   "scope": "/",
-  "theme_color": "#db4437",
+  "theme_color": "#4285f4",
   "background_color": "#4285f4",
   "display": "standalone",
   "shortcuts": [
     {
-      "name": "How's blog today?",
+      "name": "View Blog",
       "short_name": "Blog",
-      "description": "View blog information for today",
-      "url": "/blog",
+      "description": "Visit Site Blog",
+      "url": "/blog?source=pwa",
       "icons": [{ "src": "/android-chrome-192x192.png", "sizes": "192x192" }]
     },
     {
-      "name": "How's weather tomorrow?",
+      "name": "Login Now",
       "short_name": "Tomorrow",
-      "description": "View weather information for tomorrow",
-      "url": "/tomorrow?source=pwa",
+      "description": "Login and Update",
+      "url": "/login?source=pwa",
       "icons": [{ "src": "/android-chrome-192x192.png", "sizes": "192x192" }]
     }
   ]

@@ -67,6 +67,17 @@ PWA checked with [Lighthouse](https://web.dev/performance-scoring/) - These chec
 
 ![Gatsby after PWA Implementation](images/after-pwa-implementation.gif)
 
+# Features
+
+- Google Fonts Customization
+- Material UI Theme Customization
+- SEO Module
+- Service Worker
+- Offline Page
+- Installable App
+- App Shortcuts
+- GitHub Workflow to deploy to Firebase
+
 # Live Demo
 
 [🔥 Visit Site](https://gatsby-pwa-material.firebaseapp.com/)

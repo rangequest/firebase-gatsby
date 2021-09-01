@@ -11,16 +11,16 @@ module.exports = {
     {
       resolve: `gatsby-theme-material-ui`,
       options: {
-        // webFontsConfig: {
-        //   fonts: {
-        //     google: [
-        //       {
-        //         family: `Montserrat`,
-        //         variants: [`300`, `400`, `500`],
-        //       },
-        //     ],
-        //   },
-        // },
+        webFontsConfig: {
+          fonts: {
+            google: [
+              {
+                family: `Quicksand`,
+                variants: [`300`, `400`, `500`],
+              },
+            ],
+          },
+        },
       },
     },
     "gatsby-plugin-react-helmet",
